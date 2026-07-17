@@ -17,4 +17,10 @@ This project explores gravitational dynamics through two distinct orbital simula
 **Part 2: The HR 8799 System**
 *   **System Characteristics:** The simulation extends to HR 8799, a young star system located 39 parsecs away and roughly 30 million years old.
 *   **Direct Imaging:** Due to their relatively recent formation, the system's four giant exoplanets (b, c, d, and e) still radiate substantial heat, enabling direct observation.
-*   **Observational Data:** Reference is made to a one-hour L band (3.5 microns) exposure captured by the Keck II telescope (Marois et al., 2010). This successfully imaged the system by employing specialised optical techniques to obscure the host star's overwhelming light.
+*   **Observational Data:** Reference is made to a one-hour L band (3.5 microns) exposure captured by the Keck II telescope (Marois et al., 2010).
+*   This successfully imaged the system by employing specialised optical techniques to obscure the host star's overwhelming light.
+
+# Results
+<img width="596" height="556" alt="image" src="https://github.com/user-attachments/assets/a0b70ead-0e0b-4a96-a659-955657005013" />
+<img width="1002" height="817" alt="image" src="https://github.com/user-attachments/assets/ac98fe98-b152-4ee0-8c7e-1d3266f87846" />
+
